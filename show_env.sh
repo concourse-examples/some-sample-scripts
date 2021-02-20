@@ -2,3 +2,6 @@
 
 uname -a
 env
+pwd
+ls -la
+
