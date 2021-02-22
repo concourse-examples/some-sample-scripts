@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # Show contents of new-directory
+echo 'Contents of ' new-directory
 ls -la new-directory
 echo
 
