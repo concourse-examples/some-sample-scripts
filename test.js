@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const dir = '.';
+const dir = './sample-scripts';
 
 fs.readdir(dir, (err, files) => {
     if (err) {
