@@ -2,6 +2,7 @@
 
 # Show contents of new-directory
 ls -la new-directory
+echo
 
 # Show contents of each file 
 for file in new-directory/*
