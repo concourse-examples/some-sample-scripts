@@ -16,5 +16,6 @@ done
 echo 'New directory reviewed'
 
 # Wait here for debugging
-bash
+sh
+
 
